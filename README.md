@@ -1,0 +1,2 @@
+# jinugoon.github.io
+blog
